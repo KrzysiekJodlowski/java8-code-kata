@@ -6,10 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="collection-interfaces" />
+        <module name="stream-api" />
         <module name="common-test-tool" />
         <module name="date-and-time-api" />
-        <module name="stream-api" />
+        <module name="collection-interfaces" />
       </profile>
     </annotationProcessing>
   </component>
